@@ -79,13 +79,13 @@ const PDFHeader = ({
     <View style={styles.container}>
       <View style={styles.infoColumn}>
         <Text style={[styles.subtitle, { fontWeight: 600 }]}>
-          Luxury Events and VIP Travel DMCC
+          Test Company Pvt Ltd.
         </Text>
-        <Text style={styles.subtitle}>2806, HDS Business Centre,</Text>
-        <Text style={styles.subtitle}>Cluster M, JLT, Dubai, UAE.</Text>
-        <Text style={styles.subtitle}>+971 4 456 5046</Text>
-        <Text style={styles.subtitle}>accounting@luxuryexplorersme.com</Text>
-        <Text style={styles.subtitle}>TRN : 100204615700003</Text>
+        <Text style={styles.subtitle}>5343, ABC Business Centre,</Text>
+        <Text style={styles.subtitle}>ABC Road, Dubai, UAE.</Text>
+        <Text style={styles.subtitle}>+971 4848 8478</Text>
+        <Text style={styles.subtitle}>abc@domain.com</Text>
+        <Text style={styles.subtitle}>TRN : 123456789012345</Text>
       </View>
       <View style={styles.detailColumn}>
         <View style={styles.detailRow}>
