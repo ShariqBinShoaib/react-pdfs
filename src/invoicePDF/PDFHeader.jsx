@@ -82,8 +82,8 @@ const PDFHeader = ({
           Test Company Pvt Ltd.
         </Text>
         <Text style={styles.subtitle}>5343, ABC Business Centre,</Text>
-        <Text style={styles.subtitle}>ABC Road, Dubai, UAE.</Text>
-        <Text style={styles.subtitle}>+971 4848 8478</Text>
+        <Text style={styles.subtitle}>ABC Road, Karachi, Pakistan.</Text>
+        <Text style={styles.subtitle}>+92 32X XXXXXXX</Text>
         <Text style={styles.subtitle}>abc@domain.com</Text>
         <Text style={styles.subtitle}>TRN : 123456789012345</Text>
       </View>
